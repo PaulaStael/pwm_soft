@@ -89,7 +89,7 @@ void main(void)
 }
 
 // Implementações de Funções
-
+// novo comentario
 void initSystemPeripherals(void)
 {
     Device_init();
